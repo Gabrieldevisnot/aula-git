@@ -13,3 +13,4 @@ para criar um registro do pŕojeto use:
 ````bash	
 $git commit -m "comentario"
 
+gabriel magalahes de almeida
