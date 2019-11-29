@@ -1,4 +1,4 @@
-#aula sobre git
+.#aula sobre git
 >data: 29/11/2019
 Iniciando com o git
 para instalar o git use:
